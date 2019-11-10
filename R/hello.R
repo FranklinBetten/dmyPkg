@@ -5,7 +5,7 @@
 #' @param user
 #'
 #' @return character string that says hello to user from world
-#' @import tidyr
+#' @import dplyr
 #' @export
 #'
 #' @examples
@@ -13,4 +13,5 @@
 #'
 helloYou <- function(user) {
   print(paste("Hello", user, "this is the world!"))
+  userdf <- dplyr::as_data_frame(user)
 }
