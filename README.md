@@ -6,7 +6,7 @@
 <!-- badges: start -->
 
 [![Travis build
-status](https://travis-ci.org/FranklinBetten/dmyPkg.svg?branch=master)](https://travis-ci.org/FranklinBetten/dmyPkg)
+status](https://travis-ci.com/FranklinBetten/dmyPkg.svg?branch=master)](https://travis-ci.com/FranklinBetten/dmyPkg)
 <!-- badges: end -->
 
 The goal of dmyPkg is to … This package has two functions. They dont do
