@@ -7,6 +7,8 @@
 
 [![Travis build
 status](https://travis-ci.com/FranklinBetten/dmyPkg.svg?branch=master)](https://travis-ci.com/FranklinBetten/dmyPkg)
+[![Codecov test
+coverage](https://codecov.io/gh/FranklinBetten/dmyPkg/branch/master/graph/badge.svg)](https://codecov.io/gh/FranklinBetten/dmyPkg?branch=master)
 <!-- badges: end -->
 
 The goal of dmyPkg is to … This package has two functions. They dont do

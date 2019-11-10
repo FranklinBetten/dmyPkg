@@ -15,7 +15,8 @@ URL: https://github.com/FranklinBetten/dmyPkg
 BugReports: https://github.com/FranklinBetten/dmyPkg/issues
 Suggests: 
     knitr,
-    rmarkdown
+    rmarkdown,
+    covr
 VignetteBuilder: knitr
 Imports: 
     tidyr,
