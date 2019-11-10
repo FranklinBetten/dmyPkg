@@ -13,3 +13,9 @@ LazyData: true
 RoxygenNote: 6.1.1
 URL: https://github.com/FranklinBetten/dmyPkg
 BugReports: https://github.com/FranklinBetten/dmyPkg/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    tidyr
